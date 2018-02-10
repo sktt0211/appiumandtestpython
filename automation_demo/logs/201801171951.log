@@ -1,0 +1,7 @@
+2018-01-17 19:51:08,771 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-17 19:51:08,771 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-01-17 19:51:30,766 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-17 19:51:35,241 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-01-17 19:51:35,398 - BrowserEngine - INFO - Maximize the current window.
+2018-01-17 19:51:35,433 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-17 19:51:35,576 - BasePage - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id='u1']/a[@name='tj_trnews'] 

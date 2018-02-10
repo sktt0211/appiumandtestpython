@@ -1,0 +1,38 @@
+1514346373148	geckodriver	INFO	geckodriver 0.19.1
+1514346373163	geckodriver	INFO	Listening on 127.0.0.1:65324
+1514346375519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ki\\AppData\\Local\\Temp\\rust_mozprofile.FQloW69Kz628"
+1514346383939	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1514346408737	Marionette	INFO	Listening on port 65332
+1514346409035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514346409147	Marionette	DEBUG	Register listener.js for window 4294967297
+1514346410031	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514346410960	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514346410960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\ki\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514346414130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514346414258	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\ki\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
